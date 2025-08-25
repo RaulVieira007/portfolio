@@ -1,0 +1,48 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: black;
+    background-color: #708090;
+    border: 5px solid black;
+    width: 600px;
+    margin: 30px auto;    
+    padding: 30px;        
+    border-radius: 20px;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: black;
+    background-color: #708090;
+    border: 5px solid black;
+    width: 600px;
+    margin: 30px auto;    
+    padding: 30px;        
+    border-radius: 20px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: black;
+    background-color: #708090;
+    border: 5px solid black;
+    width: 600px;
+    margin: 30px auto;    
+    padding: 30px;        
+    border-radius: 20px;
+}
+body {
+    font-family: 'Bangers', sans-serif;
+    background-image: url(/assests/imagens/fundo3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/assests/imagens/fundo3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Bangers', sans-serif;
+}
+
+#about {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.cabecalho {
+    background: #7092a1; 
+    color: black;               
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+header {
+    text-align: center;
+    color: azure;
+}
+
+.perfil {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: black;
+    background-color: #708090;
+    gap: 20px;
+    border: 5px solid black;
+    width: 600px;
+    margin:  auto;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.perfil img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    border: 3px solid purple;
+
+}
+
+main {
+    text-align: center;
+    color: black;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: black;
+    background-color: #708090;
+    border: 5px solid black;
+    width: 600px;
+    margin:  auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#video {
+     display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: black;
+    background-color: #708090;
+    border: 5px solid black;
+    width: 600px;
+    margin:  auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
