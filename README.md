@@ -1,4 +1,5 @@
-<img width="914" height="640" alt="image" src="https://github.com/user-attachments/assets/30638c5d-dd53-4052-a9c6-fb07f3e10a64" />
+<img width="2517" height="1285" alt="image" src="https://github.com/user-attachments/assets/fef690de-0f6c-42e4-8f96-09bc10abea26" />
+
 
 
 inicio do meu Portfólio pessoal
